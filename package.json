@@ -4,7 +4,9 @@
   "description": "Application to save file on AWS",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js",
+    "start": "node src/index.js"
   },
   "keywords": [
     "UPLAWS"
@@ -16,5 +18,8 @@
     "mongoose": "^5.9.9",
     "morgan": "^1.10.0",
     "multer": "^1.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.3"
   }
 }
