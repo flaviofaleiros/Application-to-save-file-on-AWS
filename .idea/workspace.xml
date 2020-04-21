@@ -20,12 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="09997723-b06e-4baf-95e0-cac1a06fee27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/config/multer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Post.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/sil_ffaleiros.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config/multer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/config/multer.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,8 +51,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../uploadexample-backend" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -78,7 +79,8 @@
       <option name="presentableId" value="Default" />
       <updated>1587306608154</updated>
       <workItem from="1587306636659" duration="7778000" />
-      <workItem from="1587332193018" duration="1723000" />
+      <workItem from="1587332193018" duration="2382000" />
+      <workItem from="1587497053747" duration="4145000" />
     </task>
     <servers />
   </component>
@@ -98,9 +100,14 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="697" y="1122" width="583" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587308110079">
+    <state x="697" y="1122" width="782" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587500815054">
       <screen x="0" y="768" width="1920" height="1080" />
     </state>
     <state x="697" y="1122" width="583" height="396" key="#com.intellij.fileTypes.FileTypeChooser/0.768.1920.1080/300.0.1366.768@0.768.1920.1080" timestamp="1587308110079" />
+    <state x="697" y="1122" width="782" height="396" key="#com.intellij.fileTypes.FileTypeChooser/0.768.1920.1080/318.0.1366.768@0.768.1920.1080" timestamp="1587500815054" />
+    <state x="776" y="1078" width="424" height="484" key="FileChooserDialogImpl" timestamp="1587497111711">
+      <screen x="0" y="768" width="1920" height="1080" />
+    </state>
+    <state x="776" y="1078" width="424" height="484" key="FileChooserDialogImpl/0.768.1920.1080/318.0.1366.768@0.768.1920.1080" timestamp="1587497111711" />
   </component>
 </project>
