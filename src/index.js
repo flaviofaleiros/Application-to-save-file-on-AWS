@@ -7,7 +7,7 @@ const cors = require("cors");
 
 const app = express();
 
-mongoose.connect(`mongodb+srv://curso:curso@curso-dczru.mongodb.net/curso?retryWrites=true&w=majority`,{
+mongoose.connect(process.env.MONGO_URL,{
     useNewUrlParser: true,
     useUnifiedTopology: true,
 });
